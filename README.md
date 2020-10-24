@@ -37,9 +37,9 @@
 <h3>Usage:</h3>
     Use this project as a beginner's example of a multi-page site with image assets. The code is a good introduction to using Bootstrap components and utilities.
 
-<h3>Credits: Laura Parker @lparker78 (author)</h3>
+<h3>Credits:</h3> Laura Parker @lparker78 (author)
 
-<h3>License: MIT   <i>Please use this project for your own learning!</i> </h3>
+<h3>License:</h3> MIT   <i>Please use this project for your own learning!</i> 
 
 
 
