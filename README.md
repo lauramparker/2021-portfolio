@@ -11,7 +11,9 @@ Description:
 
         Includes floated image and text, and Bootstrap "card" component for contact info
 
-![alt text]readmeImage_1.png
+<p>
+    <img src="/readmeImage_1.png" width="350" height="350" />
+</p>
 
 
     
