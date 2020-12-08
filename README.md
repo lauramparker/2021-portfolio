@@ -12,7 +12,7 @@
         Includes floated image and text, and Bootstrap "card" component for contact info
 
 <p>
-    <img src="/readmeImage_1.png" width="350" height="350" />
+    <img src="/images/readmeImage_1.png" width="350" height="350" />
 </p>
 
     
@@ -21,14 +21,14 @@
         Includes 5 square images 
 
         
-<p> <img src="/readmeImage_3.png" width="350" height="350" />
+<p> <img src="/images/readmeImage_3.png" width="350" height="350" />
 </p>
 
     3) Contact form
 
         Includes Bootstrap "form" component for user to contact me with a message and user contact info
 
-<p> <img src="/readmeImage_2.png" width="350" height="350" />
+<p> <img src="/images/readmeImage_2.png" width="350" height="350" />
 </p>
 
 <h3>Installation:</h3>
