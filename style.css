@@ -2,12 +2,15 @@ body {
     font-family: 'Open Sans', sans-serif;
     min-height: 75rem;
     padding-top: 4.5rem;
+    background-color: #FFC6C3;
   }
   
   h1,h2,h3,h4,h5,h6 {
       font-family: 'Raleway', sans-serif;
+      color: #504F6b;
   }
   p {
       font-size: 16px;
       font-family: 'Open Sans', sans-serif;
+      color: #504F6b;
   }
