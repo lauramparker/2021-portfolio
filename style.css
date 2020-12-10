@@ -2,15 +2,36 @@ body {
     font-family: 'Open Sans', sans-serif;
     min-height: 75rem;
     padding-top: 4.5rem;
-    background-color: #FFC6C3;
+    background-color: #e98074;
   }
   
-  h1,h2,h3,h4,h5,h6 {
+  h1,h2,h3,h4,h5,h6,small {
       font-family: 'Raleway', sans-serif;
-      color: #504F6b;
+      color: #8e8d8a;
   }
+
+  .name {
+    font-family: 'Raleway', sans-serif;
+    color: #e98074;
+  }
+
+  .titles {
+    font-family: 'Raleway', sans-serif;
+    color: #8e8d8a;
+  }
+
   p {
       font-size: 16px;
       font-family: 'Open Sans', sans-serif;
-      color: #504F6b;
+      color: #8e8d8a;
   }
+
+  ul {
+    font-family: 'Open Sans', sans-serif;
+    color: #8e8d8a;
+}
+  
+  li {
+    font-family: 'Open Sans', sans-serif;
+    color: #8e8d8a;
+}
