@@ -1,4 +1,4 @@
-# responsive-portfolio_BootCamp2
+# updated-portfolio-BootCamp8
 
 <h3> Title: Personal Portfolio Website</h3>
 
@@ -12,7 +12,7 @@
         Includes floated image and text, and Bootstrap "card" component for contact info
 
 <p>
-    <img src="/images/readmeImage_1.png" width="350" height="350" />
+    <img src="./images/Portfolio.png" width="350" height="350" />
 </p>
 
     
@@ -21,21 +21,21 @@
         Includes 5 square images 
 
         
-<p> <img src="/images/readmeImage_3.png" width="350" height="350" />
+<p> <img src="./images/Portfolio (1).png" width="350" height="350" />
 </p>
 
     3) Contact form
 
         Includes Bootstrap "form" component for user to contact me with a message and user contact info
 
-<p> <img src="/images/readmeImage_2.png" width="350" height="350" />
+<p> <img src="./images/Portfolio (2).png" width="350" height="350" />
 </p>
 
 <h3>Installation:</h3>
-    To run the development environment, clone the repository found at https://github.com/lparker78/responsive-portfolio_BootCamp2. Here you will find 3 html files (index.html, contact.html, portfolio.html) and 6 image assets.
+    To run the development environment, clone the repository found at https://github.com/lparker78/updated-portfolio-BootCamp8. Here you will find 3 html files (index.html, contact.html, portfolio.html) and the image assets.
 
 <h3>Usage:</h3>
-    Use this project as a beginner's example of a multi-page site with image assets. The code is a good introduction to using Bootstrap components and utilities.
+    Use this project as an example of a multi-page site with image assets. The code is a good introduction to using Bootstrap components and utilities.
 
 <h3>Credits:</h3> Laura Parker @lparker78 (author)
 
