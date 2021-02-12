@@ -7,12 +7,12 @@ body {
   
   h1,h2,h3,h4,h5,h6,small {
       font-family: 'Raleway', sans-serif;
-      color: #8e8d8a;
+      color: slategray;
   }
 
   .name {
     font-family: 'Raleway', sans-serif;
-    color: #e98074;
+    color: slategray;
   }
 
   .titles {
@@ -21,7 +21,7 @@ body {
   }
 
   p {
-      font-size: 16px;
+      font-size: 14px;
       font-family: 'Open Sans', sans-serif;
       color: #8e8d8a;
   }
